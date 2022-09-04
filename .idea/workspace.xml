@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39fd7f67-1361-4dd3-8676-7dc1775cf1f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseTAU.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter2/GrossPayCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/CompareStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/IfElseBonusPayments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/IfElseIfClassScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/NestIfLoanQualifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/SwitchStudentGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/DoWhileIncrese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/ForCashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/WhileCalculatePays.java" afterDir="false" />
+    <list default="true" id="39fd7f67-1361-4dd3-8676-7dc1775cf1f6" name="Changes" comment="First course commit">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/ArrayDaysWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/LoopsDieRolls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/MethodsPhoneBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/StringsPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/animalsAbstraction/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/animalsAbstraction/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/animalsAbstraction/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/animalsAbstraction/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/cakesinheritance/BirthDayCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/cakesinheritance/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/cakesinheritance/TasteTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/cakesinheritance/WeddingCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/fruitspolymorph/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/fruitspolymorph/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/fruitspolymorph/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/fruitspolymorph/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/gradescollections/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/gradescollections/TestResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/phonebilloop/GenerateBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/phonebilloop/PhoneBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios/phonebilloop/Telcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/AbstractionShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter13/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/HomeAreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/HomeReturnObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/OverloadMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/LotteryTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/InheritanceEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/InheritancePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/InheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +53,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,20 +72,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.35640138&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ForCashier">
-    <configuration name="CompareStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.CompareStatements" />
+}</component>
+  <component name="RunManager" selected="Application.GradeBook">
+    <configuration name="Farm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.animalsAbstraction.Farm" />
       <module name="courseTAU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.*" />
+          <option name="PATTERN" value="Ejercicios.animalsAbstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileIncrese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.DoWhileIncrese" />
+    <configuration name="GradeBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.gradescollections.GradeBook" />
       <module name="courseTAU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="Ejercicios.gradescollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForCashier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.ForCashier" />
+    <configuration name="Market" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.fruitspolymorph.Market" />
       <module name="courseTAU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="Ejercicios.fruitspolymorph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseIfClassScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.IfElseIfClassScore" />
+    <configuration name="StringsPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.StringsPassword" />
       <module name="courseTAU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.*" />
+          <option name="PATTERN" value="Ejercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchStudentGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.SwitchStudentGrade" />
+    <configuration name="TasteTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.cakesinheritance.TasteTester" />
       <module name="courseTAU" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter3.*" />
+          <option name="PATTERN" value="Ejercicios.cakesinheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForCashier" />
-        <item itemvalue="Application.DoWhileIncrese" />
-        <item itemvalue="Application.CompareStatements" />
-        <item itemvalue="Application.SwitchStudentGrade" />
-        <item itemvalue="Application.IfElseIfClassScore" />
+        <item itemvalue="Application.GradeBook" />
+        <item itemvalue="Application.Farm" />
+        <item itemvalue="Application.Market" />
+        <item itemvalue="Application.TasteTester" />
+        <item itemvalue="Application.StringsPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +173,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661980483658</updated>
     </task>
+    <task id="LOCAL-00001" summary="First course commit">
+      <created>1662057722962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662057722962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,5 +193,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First course commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First course commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testing.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
